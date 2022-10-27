@@ -1,0 +1,59 @@
+.titulo{
+    text-align: center;
+    font-size: xx-large;
+    color: red;
+    background-color: #815B5B;
+}
+
+.subtitulo1{
+    font-size: x-large;
+    color: red;
+    background-color: #815B5B;
+}
+
+.parrafo1{
+    color: black;
+   background-color: #9E7676;
+   font-size: x-large;
+   
+}
+
+.parrafo2{
+    color: black;
+   background-color: #9E7676;
+   font-size: x-large;
+}
+
+.parrafo3{
+    color: black;
+   background-color: #9E7676;
+   font-size: x-large;
+}
+
+.lista1{
+    color: black;
+   background-color: #9E7676;
+   font-size: x-large;
+}
+
+.lista2{
+    color: black;
+    background-color: #9E7676;
+    font-size: x-large;
+}
+
+.subtitulo2{
+    font-size: x-large;
+    color: red;
+    background-color: #815B5B;
+}
+
+.parrafo2{
+    color: black;
+    background-color: #9E7676;
+    font-size: x-large;
+}
+
+body{
+   background: #9E7676;
+}
